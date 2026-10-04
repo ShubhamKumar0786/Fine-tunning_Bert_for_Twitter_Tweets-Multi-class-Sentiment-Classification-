@@ -5,7 +5,7 @@ from transformers import pipeline
 
 
 
-st.tittle("Fine-tunning Bert for Twitter Tweets for Multi-class Sentiment Classification")
+st.title("Fine-tunning Bert for Twitter Tweets for Multi-class Sentiment Classification")
 
 model="Shubham0786/bert-base-uncased-sentiment-model"
 classifier=pipeline("text-classification",model=model)
