@@ -462,6 +462,11 @@ sequenceDiagram
                         ▼
                  Production Demo
 ```
+---
+## Screenshot
+<img width="1678" height="879" alt="Screenshot 2026-10-04 at 3 27 21 PM" src="https://github.com/user-attachments/assets/33b1be71-4f5e-40b1-b853-b5f8e16b9695" />
+
+
 
 ---
 
